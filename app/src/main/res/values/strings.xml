@@ -2,5 +2,6 @@
     <string name="app_name">Laboratorio2</string>
     <string name="edit_message">Escriba un mensaje</string>
     <string name="send_message">Envie un mensaje</string>
+    <string name="welcome_message">welcome</string>
 </resources>
 
